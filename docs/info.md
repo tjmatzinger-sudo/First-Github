@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+two nands connected in a way to build a simple flip-flop
 
 ## How to test
 
